@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: consumers
+server:
+  port: 3333
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/
+
+say-greeting:
+  ribbon:
+    eureka:
+      enabled: true
+#  listOfServers: localhost:6685,localhost:6686,localhost:6687,localhost:6688
+#  ServerListRefreshInterval: 15000
+
+

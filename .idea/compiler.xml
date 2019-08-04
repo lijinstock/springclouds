@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-server" />
+        <module name="book" />
+        <module name="bookstore" />
+        <module name="boot" />
+        <module name="consumers" />
+        <module name="data-jpa" />
+        <module name="data-mysql" />
+        <module name="eureka" />
+        <module name="eureka-client" />
+        <module name="form" />
+        <module name="gateway" />
+        <module name="messaging-redis" />
+        <module name="reading" />
+        <module name="say-greeting" />
+        <module name="say-hellos" />
+        <module name="uploadfile" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-server" target="1.8" />
+      <module name="book" target="1.8" />
+      <module name="bookstore" target="1.8" />
+      <module name="boot" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="consumers" target="1.8" />
+      <module name="data-jpa" target="1.8" />
+      <module name="data-mysql" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="form" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="messaging-redis" target="1.8" />
+      <module name="parent" target="1.8" />
+      <module name="reading" target="1.8" />
+      <module name="say-greeting" target="1.8" />
+      <module name="say-hello" target="1.8" />
+      <module name="say-hellos" target="1.8" />
+      <module name="uploadfile" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

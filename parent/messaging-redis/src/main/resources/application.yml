@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: messaging-redis
+  redis:
+    host: 192.168.17.128
+    port: 6379
+server:
+  port: 8816
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parent/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/parent/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/book/book.iml" filepath="$PROJECT_DIR$/parent/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/parent/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/boot/boot.iml" filepath="$PROJECT_DIR$/parent/boot/boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/consumers/consumers.iml" filepath="$PROJECT_DIR$/parent/consumers/consumers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/data-jpa/data-jpa.iml" filepath="$PROJECT_DIR$/parent/data-jpa/data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/data-mysql/data-mysql.iml" filepath="$PROJECT_DIR$/parent/data-mysql/data-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/eureka/eureka.iml" filepath="$PROJECT_DIR$/parent/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/parent/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/form/form.iml" filepath="$PROJECT_DIR$/parent/form/form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/gateway/gateway.iml" filepath="$PROJECT_DIR$/parent/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/messaging-redis/messaging-redis.iml" filepath="$PROJECT_DIR$/parent/messaging-redis/messaging-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/reading/reading.iml" filepath="$PROJECT_DIR$/parent/reading/reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/say-greeting/say-greeting.iml" filepath="$PROJECT_DIR$/parent/say-greeting/say-greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/say-hellos/say-hellos.iml" filepath="$PROJECT_DIR$/parent/say-hellos/say-hellos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/uploadfile/uploadfile.iml" filepath="$PROJECT_DIR$/parent/uploadfile/uploadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/user/user.iml" filepath="$PROJECT_DIR$/parent/user/user.iml" />
+    </modules>
+  </component>
+</project>

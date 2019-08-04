@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/jpa
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  application:
+    name: data-jpa
+server:
+  port: 8876

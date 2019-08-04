@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: say-hellos
+server:
+  port: 5555
+
+#服务注册中心地址
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8888/eureka/

@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: gateway
+
+server:
+  port: 1100
+
+zuul:
+  routes:
+    books:
+      url: http://localhost:1112
+
+ribbon:
+  eureka:
+    enable: false

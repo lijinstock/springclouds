@@ -1,0 +1,16 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_example
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  application:
+    name: data-mysql
+server:
+  port: 8808
+
+

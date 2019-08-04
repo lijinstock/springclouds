@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: bookstore
+server:
+  port: 2222
+#显示健康状况
+management:
+  endpoint:
+    health:
+      show-details: always

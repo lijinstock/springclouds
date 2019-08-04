@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: reading
+server:
+  port: 1111
+
+
+
+

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: uploadfile
+  servlet:
+    multipart:
+      max-file-size: 1280KB
+      max-request-size: 1280KB
+server:
+  port: 8866
