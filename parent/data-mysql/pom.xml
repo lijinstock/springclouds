@@ -31,7 +31,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.47</version>
+			<version>8.0.28</version>
 			<!--默认是当前最高级的sql版本，但是兼容性不好，建议使用5.1.47稳定版本-->
 			<!--<scope>runtime</scope>-->
 		</dependency>
